@@ -668,11 +668,9 @@ section {
     justify-content: center;
     align-items: center;
      background: linear-gradient(135deg, 
-        #142244 0%, 
-        #131F37 25%, 
-        #1A2745 50%, 
-        #131F37 75%, 
-        #3759a8 100%);
+        #0F172A 0%, 
+        #1A2640 50%, 
+        #173066 100%);
     flex-direction: column;
     
 }
@@ -2127,5 +2125,6 @@ section {
         display: none !important;
     }
 }
+
 
 
